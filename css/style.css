@@ -12,12 +12,12 @@ body{
   width: 80%;
   margin: auto auto;
   height: 80px;
-  margin-top: 300px;
+  margin-top:350px;
   display: flex;
 }
 
 #inputContainer{
-  width: 80%;
+  width: 90%;
   height: 80px;
   border: solid 1px gray;
   padding: 20px;

@@ -1,0 +1,10 @@
+@media screen and (max-width:850px) {
+  .inputBtn{
+    font-size: 12px;
+    height: 50px;
+  }
+  #inputContainer{
+    font-size: 12px;
+    height: 50px;
+  }
+}
