@@ -2,6 +2,8 @@
   .inputBtn{
     font-size: 10px;
     height: 50px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
   }
   #inputContainer{
     font-size: 12px;
